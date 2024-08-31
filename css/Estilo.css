@@ -1,0 +1,26 @@
+html, body{
+    height: 100%;
+}
+body{
+    background:linear-gradient(#8f2121, rgb(26, 1, 1));
+}
+
+h1{
+    color: rgb(240, 144, 34);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.foto{
+    text-align: center;
+}
+
+.foto img{ 
+    width: 25%;
+}
+
+.mem{
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
